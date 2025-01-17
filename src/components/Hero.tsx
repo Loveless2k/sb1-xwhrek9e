@@ -3,7 +3,7 @@ import { ArrowRight } from 'lucide-react';
 
 export default function Hero() {
   return (
-    <div className="relative min-h-screen flex items-center">
+    <div id="inicio" className="relative min-h-screen flex items-center">
       <div className="absolute inset-0 bg-gradient-to-br from-[#00c5c5]/10 to-[#00a5a5]/5" />
       
       <div className="relative max-w-7xl mx-auto px-4 sm:px-6 py-32">
