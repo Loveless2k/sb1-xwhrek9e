@@ -83,7 +83,7 @@ const educationList: EducationItem[] = [
     certificateLink: "https://www.credly.com/badges/21259cbb-a1ab-4f71-b55d-34e33ff6f6e1/linked_in_profile" // Enlace añadido
   },
   {
-    title: "Ingeniero en Informática mención Ciberseguridad",
+    title: "Ingeniera en Informática mención Ciberseguridad",
     institution: "Instituto Profesional IPP",
     period: "nov. 2017 - jun. 2022",
     skills: [

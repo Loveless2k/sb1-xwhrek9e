@@ -1,4 +1,3 @@
-import React from 'react';
 import { Brain, Menu } from 'lucide-react';
 
 export default function Header() {
